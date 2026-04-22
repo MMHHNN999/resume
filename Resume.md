@@ -83,13 +83,13 @@
         역할: 시나리오, BGM, 효과음 제작  
    * **게임**
    *    '물 아랫 나리'  
-        [링크](https://maplestoryworlds.nexon.com/ko/play/de426f1968ea48bdb3fa9789f157d930/)
+        [링크](https://maplestoryworlds.nexon.com/ko/play/de426f1968ea48bdb3fa9789f157d930/)  
         제작 기간: 25.10.14 ~ 25.10.24  
         협업인원: 5명  
         장르: 비주얼 노벨, 미스테리 공포  
         역할: 설정 및 시나리오 제작  
    *   'IceBreaking'  
-        [링크](https://maplestoryworlds.nexon.com/ko/play/c8b123abccb445dbb015c7801527b193/)
+        [링크](https://maplestoryworlds.nexon.com/ko/play/c8b123abccb445dbb015c7801527b193/)  
         제작 기간: 25.11.06 ~ 25.11.27  
         협업인원: 5명  
         장르: 방치형 클릭커류, 아포칼립스  
