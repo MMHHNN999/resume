@@ -3,7 +3,7 @@
 ## 👤 인적사항
 | 사진 | 항목 | 내용 | 항목 | 내용 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://github.com/user-attachments/assets/35918b19-8d2a-4cb9-9aeb-72c6efee6e2f"> | **이름** | 임무한 (任武瀚) | **생년월일** | 1994.10.31 |
+| <img src="https://github.com/user-attachments/assets/5bf7339c-606d-4b98-ac7c-fe2c7f2abb0d"> | **이름** | 임무한 (任武瀚) | **생년월일** | 1994.10.31 |
 | | **현주소** | 서울 구로구 개봉동 307-34, 402호 | **연락처** | 010-4244-1557 |
 | | **이메일** | 1raina7@gmail.com | **병역** | 의경 병장 만기제대 |
 
