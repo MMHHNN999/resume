@@ -49,24 +49,28 @@
    *    '물 아랫 나리'  
         [링크](https://maplestoryworlds.nexon.com/ko/play/de426f1968ea48bdb3fa9789f157d930/)  
         제작 기간: 25.10.14 ~ 25.10.24  
+        플랫폼: PC  
         협업인원: 5명  
         장르: 비주얼 노벨, 미스테리 공포  
         역할: 설정 및 시나리오 제작  
    *   'IceBreaking'  
         [링크](https://maplestoryworlds.nexon.com/ko/play/c8b123abccb445dbb015c7801527b193/)  
         제작 기간: 25.11.06 ~ 25.11.27  
+        플랫폼: PC  
         협업인원: 5명  
         장르: 방치형 클릭커류, 아포칼립스  
         역할: 오브젝트 기획, 마법 시스템 기획, 사운드&이펙트 리소스  
    *   'CheckOut'  
         [링크](https://drive.google.com/file/d/1gIQoPg1OzcdtFF2bUkwf0GQXgzCbeDt6/view?usp=drive_link)  
         제작 기간: 25.12.02 ~ 26.01.02  
+        플랫폼: PC  
         협업인원: 10명  
         장르: 익스트랙션 슈터, 나폴리탄 괴담류  
         역할: 설정 및 이벤트 콘텐츠 기획  
    *   '도로시아'  
         [링크](https://play.google.com/store/apps/details?id=com.PunkManiac.Dorothia&_gl=1*1994joi*_up*MQ..*_ga*MjgzMDQ5NjQ1LjE3NzY3NDM0MTI.*_ga_6VGGZHMLM2*czE3NzY3NDM0MTEkbzEkZzAkdDE3NzY3NDM0MTEkajYwJGwwJGgw&hl=ko)  
         제작 기간: 26.01.19 ~ 26.04.02  
+        플랫폼: 모바일  
         협업인원: 8명  
         장르: 방치형, 핵앤슬래쉬, 스팀펑크, 다크 판타지  
         역할: 세계관 설정 기획 및 시나리오 작성, 맵 레벨 디자인  
