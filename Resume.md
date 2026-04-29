@@ -3,7 +3,7 @@
     <td width="30%" valign="top">
        
 ### 인적사항
-
+<img src="https://github.com/user-attachments/assets/9d64f8d3-f1cc-461a-b592-f1471b926902" width="120" height="160" style="border-radius: 50%;">
 
 ### Contact
 - 📧 email@example.com
