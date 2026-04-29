@@ -1,3 +1,25 @@
+<table border="0">
+  <tr>
+    <td width="30%" valign="top">
+       
+### 인적사항
+<img src="https://github.com/user-attachments/assets/5bf7339c-606d-4b98-ac7c-fe2c7f2abb0d" width="120" height="160" style="border-radius: 50%; object-fit: cover;">
+
+
+
+### Contact
+- 📧 email@example.com
+- 🔗 [GitHub](https://github.com/...)
+- 📝 [Blog](https://...)
+
+### Tech Stack
+- Unity / C#
+- Lua
+- Narrative Design
+
+    </td>
+    <td width="70%" valign="top">
+
 # 이 력 서 (Resume)
 
 ## 👤 인적사항
