@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/218d44ff-4281-48c2-89ce-55e30cccd1da" /><table border="0">
+<table border="0">
   <tr>
     <td width="30%" valign="top">
        
