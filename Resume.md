@@ -148,6 +148,18 @@
 |B100X|Candies 'n Curses|CoA:아틀란의 크리스탈|
 |Deemo|Defender|Elf Tales|
 |Furies:Last Escape|Godus|ICEY|
+|Lanota|Minimal Escape|MOBIUS FINAL FANTASY|
+|Orna:판타지 RPG&GPS MMO|Pokemon GO|Pokemon Masters EX|
+|RWBY:Amity Arena|Shadow of Death|SINoALICE|
+|Temple Run|WOS:화이트아웃 서바이벌|X2:이클립스|
+|오투잼 아날로그|파이널삼국지|가디스 오브 제네시스|
+|가디스오더|가디언 소울|가이더스|
+|걸카페건|검은사막 모바일|고고 머핀|
+|고양이는 정말 귀여워|궁수의 전설|그랜드 체이스|
+|기동전대:아이언사가|기어즈바운드|길잃은 고양이의 여행|
+|깨어난 마녀|나이트오브풀문|냥냥 시노비|
+|냥코 대전쟁|네크로맨서 키우기|뉴럴 클라우드|
+
 
 
 
