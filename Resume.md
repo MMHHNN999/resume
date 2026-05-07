@@ -140,6 +140,17 @@
 |블루 아카이브|3년~|약 5만원|
 |명일방주:엔드필드|3개월~|약 3만원|
 
+* 모바일 - 찍먹
+
+|게임|게임|게임|
+|---|---|---|
+|70억 좀비|ANOTHER EDEN|Astral Stairways|
+|B100X|Candies 'n Curses|CoA:아틀란의 크리스탈|
+|Deemo|Defender|Elf Tales|
+|Furies:Last Escape|Godus|ICEY|
+
+
+
 * PC 및 콘솔
    
 |게임|플레이 타임|
