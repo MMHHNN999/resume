@@ -222,6 +222,7 @@
 
 ## 🎨 기타 강점
 * **웹소설 연재:** 조아라 선호작 1,500 이상 (게임 2차 창작)
+[링크](https://drive.google.com/drive/folders/10EeHX9RkHKYYDYzs_GBiMV7keJ-hULtP?usp=drive_link)
 
 ---
 > **위 기재 사항은 사실과 틀림없음을 확인합니다.**  
