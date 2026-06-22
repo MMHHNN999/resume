@@ -3,7 +3,7 @@
     <td width="30%" valign="top">
        
 # 이력서(Resume)
-<img src="https://github.com/user-attachments/assets/3c6c77c8-d9fb-40aa-b6fa-dd0242a35417" width="120" height="160">
+<img src="https://github.com/user-attachments/assets/a11e7bdf-14bf-4595-ad05-44cb7cbeb37b" width="120" height="160">
 
 **이름:** 임무한  
 **생년월일:** 1994.10.31  
