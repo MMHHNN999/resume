@@ -39,14 +39,19 @@
 # <center>**게임에 서사를 담는 기획자**</center>
 </div>
 
-## 🧑‍🤝‍🧑**협업 경험** 
+
 
 **총 한 권의 서적 출판 및 4종의 게임 제작 경험 존재**
    ### 📙**출판**
    *    '듬이와 랑이의 성경탐험 컬러링북'  
         [링크](https://books.google.co.kr/books/about/%EB%93%AC%EC%9D%B4%EC%99%80_%EB%9E%91%EC%9D%B4%EC%9D%98_%EC%84%B1%EA%B2%BD%ED%83%90%ED%97%98_%EC%BB%AC%EB%9F%AC.html?id=63r60AEACAAJ&redir_esc=y)     
         협업인원: 5명  
-        역할: 컷 연출 및 시나리오 작성 
+        역할: 컷 연출 및 시나리오 작성
+
+* **소설 연재:** 조아라 선호작 1,500 이상 (게임 2차 창작)
+[링크](https://drive.google.com/drive/folders/10EeHX9RkHKYYDYzs_GBiMV7keJ-hULtP?usp=drive_link)
+
+## 🧑‍🤝‍🧑**협업 경험** 
    ### 🎮**게임**
    *    '물 아랫 나리'  
         [링크](https://maplestoryworlds.nexon.com/ko/play/de426f1968ea48bdb3fa9789f157d930/)  
@@ -226,12 +231,6 @@
 |포켓몬 시리즈|총 5000시간|
 
 ---
----
-
-## 🎨 기타 강점
-* **웹소설 연재:** 조아라 선호작 1,500 이상 (게임 2차 창작)
-[링크](https://drive.google.com/drive/folders/10EeHX9RkHKYYDYzs_GBiMV7keJ-hULtP?usp=drive_link)
-
 ---
 > **위 기재 사항은 사실과 틀림없음을 확인합니다.**  
 > **작성자: 임무한**
