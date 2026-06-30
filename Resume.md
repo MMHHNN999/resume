@@ -51,7 +51,7 @@
 * **소설 연재:** 조아라 선호작 1,500 이상 (게임 2차 창작)
 [링크](https://drive.google.com/drive/folders/10EeHX9RkHKYYDYzs_GBiMV7keJ-hULtP?usp=drive_link)
 
-## 🧑‍🤝‍🧑**협업 경험** 
+## 🧑‍🤝‍🧑**게임 협업 경험** 
    ### 🎮**게임**
    *    '물 아랫 나리'  
         [링크](https://maplestoryworlds.nexon.com/ko/play/de426f1968ea48bdb3fa9789f157d930/)  
